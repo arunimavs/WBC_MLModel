@@ -3,10 +3,11 @@
 Here I created an ML model of Breast Cancer using Winsconsin Datset.
 
 1. Using Logistc Regression
- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PBbST_K-i27TeUx7M_9alSMwiEyRpmSi)
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Si1XHGvS4A9n18kByeWY_zB-kXuI15yC#scrollTo=FExpKjimjZ3l)
+
  
 2. Using Random Forest
- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Si1XHGvS4A9n18kByeWY_zB-kXuI15yC#scrollTo=FExpKjimjZ3l)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PBbST_K-i27TeUx7M_9alSMwiEyRpmSi)
 
 
 
